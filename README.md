@@ -1,5 +1,11 @@
 # 📋 Customer Complaint Classification System
 
+## 🌐 Live Demo
+
+[Customer Complaint Classification System - Live App](https://customerclassification-gnbmenapptewhsjkbewgfng.streamlit.app/)
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-green)](https://customerclassification-gnbmenapptewhsjkbewgfng.streamlit.app/)
+
 A Streamlit-based Machine Learning application that classifies customer complaints into predefined categories using text embeddings and a trained scikit-learn model. This project is designed as a clean and practical NLP solution suitable for academic submission as well as a GitHub portfolio.
 
 ## Project Description
@@ -78,4 +84,3 @@ Billing
 
 **Your Name**  
 Data Science / Machine Learning Project
-
